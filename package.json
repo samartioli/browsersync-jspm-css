@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "jspm": "^0.16.19"
+  },
+  "jspm": {
+    "dependencies": {
+      "css": "github:systemjs/plugin-css@^0.1.20"
+    },
+    "devDependencies": {}
+  }
+}
